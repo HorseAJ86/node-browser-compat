@@ -1,13 +1,13 @@
 (function () {
   "use strict";
 
-  var atob = require('./index')
+  var btoa = require('./index')
     , encoded = "SGVsbG8gV29ybGQ="
     , unencoded = "Hello World"
     , result
     ;
 
-  if (unencoded !== atob(encoded)) {
+  if (encoded !== btoa(unencoded)) {
     return;
   }
 
