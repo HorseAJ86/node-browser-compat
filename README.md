@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/coolaj86/node-browser-compat.png)](http://travis-ci.org/coolaj86/node-browser-compat)
 Goals
 ===
 
