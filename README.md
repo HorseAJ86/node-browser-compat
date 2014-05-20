@@ -1,4 +1,4 @@
-MOVED TO https://github.com/node-browser-compat
+MOVED TO [github.com/node-browser-compat](https://github.com/node-browser-compat)
 ======
 
 Goals
